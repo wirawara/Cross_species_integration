@@ -3,9 +3,9 @@
 
 Cross species aging paper
 ---------------------------------------
-Repository to reproduce analyses from the Cross species aging Manuscript
+Repository for evolutionary and functional transcriptome integration from the Cross species aging Manuscript
 
-*Komljenovic A & Robinson-Rechavi M. Cross-species functional modules identify conserved splicing and immune genes of aging.* 
+*Komljenovic A,  Hao Li, Vincente Sorrentino, Zoltan Kutalik, Johan Auwerx, Marc Robinson-Rechavi* Cross-species functional modules link proteostasis to human normal aging
 
 
 
@@ -20,10 +20,6 @@ Download required files
 
 
 ***Summary of gene expression datasets***
-
-
-To download all these datasets, please go to `s0.preprocessing.steps.Rmd` and `s0.GTEx.preprocess.Rmd`.
-
 
 
 Download from <http://www.gtexportal.org/home/datasets>:
@@ -72,7 +68,7 @@ Download from <https://www.ncbi.nlm.nih.gov/geo/>:
 
 ***Summary of download the OMA groups***
 
-To process HOG groups from OMA database, refer to `s0.OMA.steps.Rmd`.
+To process HOG groups from OMA database.
 
 HOGs are inferred on public genomes and can be downloaded from the OMA orthology database <http://omabrowser.org/oma/home/> .
 
@@ -88,23 +84,11 @@ The HOGs groups are saved in `oma_eogs.rds` and ready to be used in R.
 
 
 
-
-
-
-
-
-
-
 Pipeline
 =========
 
 Download data:
 
-1. `s0.preprocessing.steps.Rmd`
-
-2. `s0.GTEx.preprocess.Rmd`
-	
-3. `s0.OMA.steps.Rmd`
 
 
 
@@ -117,8 +101,6 @@ Download data:
 
 * Figure 1C	
 
-1. `s1.DiffExp.Rmd` 
-
 
 
 ### Single gene level vs Gene set level
@@ -126,7 +108,6 @@ Download data:
 
 * Figure 2
 
-1. `s2.SingleGeneLevel_GeneSetLevel.Rmd` 
 
 
 
@@ -135,30 +116,23 @@ Download data:
 
 * Figure 3
 
-1. `s3.GSEAperspecies.Rmd`
-
-
 
 
 ### Shared processes and DR
 
+* Figure 3
 
-* Figure 4
-
-1. `s4.SharedProcesses_DietaryRestriction.Rmd`
 
 
 ### Functional modules
 
-* Figure 5
+* Figure 4
 
-1. `s5.Modularity.Rmd`
+
 
 ### Modular architecture and candidate genes in GWAS
 
-* Figure 6
-
-
+* Figure 5
 
 
 
@@ -166,10 +140,4 @@ Download data:
 Supplement Figures
 ______________________
 
-
-
-
-Final .Rmd for main figures 
-------------------------
-This goes to reviewers.
 
