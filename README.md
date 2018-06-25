@@ -1,7 +1,7 @@
 
 
 
-Cross species aging paper
+Cross species evolutionary and functional gene expression aging integration
 ---------------------------------------
 Repository for evolutionary and functional transcriptome integration from the Cross species aging Manuscript
 
