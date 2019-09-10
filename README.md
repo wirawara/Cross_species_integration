@@ -5,9 +5,7 @@ Cross species evolutionary and functional gene expression aging integration
 ---------------------------------------
 Repository for evolutionary and functional transcriptome integration from the Cross species aging Manuscript
 
-*Komljenovic A,  Hao Li, Vincente Sorrentino, Zoltan Kutalik, Johan Auwerx, Marc Robinson-Rechavi* Cross-species functional modules link proteostasis to human normal aging
-
-[Plos Comp Bio article](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007162)
+*Komljenovic A,  Hao Li, Vincente Sorrentino, Zoltan Kutalik, Johan Auwerx, Marc Robinson-Rechavi* Cross-species functional modules link proteostasis to human normal aging [PLoS Comput Biol 15(7): e1007162.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007162)
 
 
 
