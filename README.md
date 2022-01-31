@@ -9,7 +9,7 @@ Repository for evolutionary and functional transcriptome integration from the Cr
 
 The code is available in the Supplementary Materials (https://www.biorxiv.org/content/biorxiv/suppl/2018/03/23/287128.DC1/287128-2.pdf)
 
-![Screenshot]
+
 ![Screen Shot 2022-01-30 at 19 45 45](https://user-images.githubusercontent.com/14986121/151725187-c1113926-db58-4de8-8fea-c1bec78c0c4f.png)
 
 To run the code
