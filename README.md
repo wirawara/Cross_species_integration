@@ -21,6 +21,10 @@ In the beginning of each .Rmd there is a set of R packages to be installed.
 * Check also the sessionInfo() for R packages.
 * `kallisto 0.42.4`
 
+Please refer to the Supplementary Materials for more details on running the pipeline.
+The Supplementary Materials were prepared in an R markdown file for reproducibility.
+
+
 Download required files
 ----------------------------
 
