@@ -11,10 +11,6 @@ This framework represents a data integration method that integrates sequencing d
 * Published version [here](https://journals.plos.org/ploscompbiol/article/comments?id=10.1371/journal.pcbi.1007162)
 * The code is available in the Supplementary Materials (https://www.biorxiv.org/content/biorxiv/suppl/2018/03/23/287128.DC1/287128-2.pdf)
 
-*Komljenovic A,  Hao Li, Vincente Sorrentino, Zoltan Kutalik, Johan Auwerx, Marc Robinson-Rechavi* Cross-species functional modules link proteostasis to human normal aging [PLoS Comput Biol 15(7): e1007162.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007162)
-
-The code is available in the Supplementary Materials (https://www.biorxiv.org/content/biorxiv/suppl/2018/03/23/287128.DC1/287128-2.pdf)
-
 This framework represents a data integration method that integrates sequencing datasets based on ranking statistics, and detects functional gene modules within groups of interest, based on RNA-sequencing files.
 
 
