@@ -1,9 +1,15 @@
 
 
 
-Cross species evolutionary and functional gene expression aging integration
----------------------------------------
-Repository for evolutionary and functional transcriptome integration from the Cross species aging Manuscript
+Data integration method based on RNA-seq: Cross-species gene expression aging integration
+--------------------------------------------------------------------------
+
+This framework represents a data integration method that integrates sequencing datasets based on ranking statistics, and detects functional gene modules within groups of interest, based on RNA-sequencing files.
+
+
+* Preprint out [here](https://www.biorxiv.org/content/10.1101/287128v2)
+* Published version [here](https://journals.plos.org/ploscompbiol/article/comments?id=10.1371/journal.pcbi.1007162)
+* The code is available in the Supplementary Materials (https://www.biorxiv.org/content/biorxiv/suppl/2018/03/23/287128.DC1/287128-2.pdf)
 
 *Komljenovic A,  Hao Li, Vincente Sorrentino, Zoltan Kutalik, Johan Auwerx, Marc Robinson-Rechavi* Cross-species functional modules link proteostasis to human normal aging [PLoS Comput Biol 15(7): e1007162.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007162)
 
